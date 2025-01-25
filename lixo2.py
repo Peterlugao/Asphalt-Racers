@@ -1,3 +1,5 @@
+# Por mais ironico que seja o nome, esse é uma das funções mais importantes do jogo inteiro.
+
 from PPlay.gameimage import *
 from PPlay.window import *
 from PPlay.sprite import *

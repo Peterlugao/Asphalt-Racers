@@ -1,3 +1,5 @@
+#"Rascunho" do jogo, aonde foi testado varias funções e ideias aleatorias.
+
 from PPlay.window import *
 from PPlay.gameimage import *
 from PPlay.sprite import *

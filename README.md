@@ -8,6 +8,6 @@ Para acessar o jogo por aqui:
 
 2- Extraia todos os arquivos compactados e coloque as pastas extraidas na pasta que você criou.
 
-3- Coloque os codigos.py, o python312.dl e o inicializador.exe na pasta que criou.
+3- Coloque os codigos.py, o python312.dll e o inicializador.exe na pasta que criou.
 
 4- Inicie o exe dentro da pasta que criou e será possivel jogar ele.
